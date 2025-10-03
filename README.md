@@ -9,4 +9,4 @@ Student and front-end developer
 - some ue4
 - an awesome telegram bot for my friends
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/your-badge-id.png)](https://www.credly.com/badges/your-badge-link)
+[![AWS Certified Cloud Practitioner](https://www.credly.com/badges/74fbe8d4-4312-48b9-9670-3c3033888f8a/public_url)](https://www.credly.com/badges/74fbe8d4-4312-48b9-9670-3c3033888f8a/public_url)
