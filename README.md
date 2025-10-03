@@ -6,13 +6,13 @@
 
 ## 📂 Projects & Repositories  
 
-- **[Aqua](#)** 💧  
+- **Aqua** 💧  
   Report system built for a small company to streamline operations.  
 
 - **React Side Projects** ⚛️  
   A bunch of small apps and experiments while learning & testing new ideas.  
 
-- **[Misaka-Bot](#)** 🤖  
+- **Misaka-Bot** 🤖  
   Fun Telegram bot made for my friends with custom features & jokes.  
 
 - **Unity & Unreal Engine Projects** 🎮  
